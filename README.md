@@ -24,6 +24,7 @@ import openpyxl
 **Usage**: 
 ```Python
 from img2xl import img2xl
+
 # Manual Inputs: Only the name of the image path
 img_src = r'assets/dog.jpg'
 
