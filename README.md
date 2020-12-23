@@ -16,14 +16,14 @@ Inspired by Matt Parker's [YouTube video](https://www.youtube.com/watch?v=UBX2QQ
 <br>
 <br>
 **Imports**: Functions imports the following libraries. So ensure they are installed before using them.
-```
+```Python
 import os
 import PIL
 import openpyxl
 ```
 
 **Usage**: 
-```
+```Python
 from img2xl import img2xl
 # Manual Inputs: Only the name of the image path
 img_src = r'assets/dog.jpg'
