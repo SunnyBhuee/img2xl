@@ -5,8 +5,7 @@ Inspired by Matt Parker's [YouTube video](https://www.youtube.com/watch?v=UBX2QQ
 
 
 
-**Description**: This is a simple program that takes a user defined image file, optionally shrinks it, and then saves it<br>
-             in an Excel file at the same location of the original image's location.
+**Description**: This is a simple program that takes a user defined image file, optionally shrinks it, and then saves it in an Excel file at the same location of the original image's location. <br>
 
 **Features**: <br>
 - User supplied image _(.jpg or .png files)_ is converted from RGB to HEX pixels.<br>
